@@ -5,6 +5,8 @@ description: This resource contains information about Harvard museum of natural 
 file: /courses/4-a21-stories-without-words-photographing-the-first-year-fall-2006/e0b28564cf9d0c8a6e5497b4528f6ebf_lect4.pdf
 file_size: 8178
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

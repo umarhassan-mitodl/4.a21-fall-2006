@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: The syllabus contains an overview and list of materials for the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -28,4 +30,4 @@ I should mention as well a great debt of gratitude to my former instructors. The
 About the Instructor
 --------------------
 
-Keith McCluskey worked as a Faculty Liaison for MIT OpenCourseWare to the School of Architecture and Planning, and is now the Senior Director of Online Strategy for Harvard Law School. He received a Master of Architecture degree from MIT in 2002. Before that he was an undergraduate student, a library employee, a Teaching Assistant, and a Resident Advisor at MIT. He remains very interested in issues of design in the everyday world and is an avid photographer. His current work can be seen here: {{% resource_link "a4e37e97-a05d-4127-a6a8-257c9f9f54ad" "http://keithondesign.com" %}}.
+Keith McCluskey worked as a Faculty Liaison for MIT OpenCourseWare to the School of Architecture and Planning, and is now the Senior Director of Online Strategy for Harvard Law School. He received a Master of Architecture degree from MIT in 2002. Before that he was an undergraduate student, a library employee, a Teaching Assistant, and a Resident Advisor at MIT. He remains very interested in issues of design in the everyday world and is an avid photographer. His current work can be seen here: [http://keithondesign.com](https://keithmccluskey.com/category/photography/).

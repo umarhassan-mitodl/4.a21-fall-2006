@@ -5,6 +5,8 @@ description: This resource contains information about photoshop, picasa and auto
 file: /courses/4-a21-stories-without-words-photographing-the-first-year-fall-2006/09692413aaf721125946d3274cf3b461_lect3.pdf
 file_size: 8773
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

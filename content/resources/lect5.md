@@ -5,6 +5,8 @@ description: This resource contains information about laying out site, logical o
 file: /courses/4-a21-stories-without-words-photographing-the-first-year-fall-2006/18151a6b9672a84bafc1b7ef54130a64_lect5.pdf
 file_size: 18757
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

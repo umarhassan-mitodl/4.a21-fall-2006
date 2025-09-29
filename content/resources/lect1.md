@@ -4,6 +4,8 @@ description: This resource contains information about camera, light and digital 
 file: /courses/4-a21-stories-without-words-photographing-the-first-year-fall-2006/ec16b25b7713abac959127ecbece1cdd_lect1.pdf
 file_size: 11434
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

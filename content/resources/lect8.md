@@ -4,6 +4,8 @@ description: This resource contains a discussion of  topics for the final projec
 file: /courses/4-a21-stories-without-words-photographing-the-first-year-fall-2006/97595fa93fd7bd41b1b7eb8df89d9a93_lect8.pdf
 file_size: 9154
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

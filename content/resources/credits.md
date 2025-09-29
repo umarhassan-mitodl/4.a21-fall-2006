@@ -4,6 +4,8 @@ description: ''
 file: /courses/4-a21-stories-without-words-photographing-the-first-year-fall-2006/ec192f2cd7ca7534a24b55c99c0fae7f_credits.pdf
 file_size: 22313
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

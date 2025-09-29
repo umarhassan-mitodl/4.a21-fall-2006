@@ -5,6 +5,8 @@ description: The MIT campus, which was the subject of many of the student essays
 file: /courses/4-a21-stories-without-words-photographing-the-first-year-fall-2006/f0123f315dca8465b5309ac06ee6f54c_chp_mit.jpg
 file_size: 65091
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

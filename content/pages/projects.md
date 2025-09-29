@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: Projects secton contains final projects of the class.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
